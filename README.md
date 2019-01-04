@@ -1,1 +1,2 @@
 # LearnGH
+Nowy projekt
