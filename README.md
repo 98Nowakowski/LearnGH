@@ -1,2 +1,2 @@
 # LearnGH
-Nowy projekt
+Nowy projekt ds
